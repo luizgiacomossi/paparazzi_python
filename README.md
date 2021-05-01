@@ -7,7 +7,7 @@ Para execução do programa é necessário:
 Dependencias: 
 
 - PYGAME -> https://www.pygame.org/wiki/GettingStarted
-	- pip install pyjama
+	- pip install pygame
 - NUMPY -> https://numpy.org/
 	- pip install bumpy
 
